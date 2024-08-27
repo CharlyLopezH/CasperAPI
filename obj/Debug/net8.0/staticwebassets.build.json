@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3wE0z686uf9j8huvySCVmJzg7wDQbK6PpGeR8FyPwa0=",
+  "Hash": "vCPMElp4RF8P/FMPE6U3DryiyvDuPaHAd9ppsqqVUD8=",
   "Source": "CasperAPI",
   "BasePath": "_content/CasperAPI",
   "Mode": "Default",
@@ -15,5 +15,25 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\wwwroot\\empleados\\c28e7c56-2529-42c7-a5b4-c30eff29a7bb.jpg",
+      "SourceId": "CasperAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\wwwroot\\",
+      "BasePath": "_content/CasperAPI",
+      "RelativePath": "empleados/c28e7c56-2529-42c7-a5b4-c30eff29a7bb.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\empleados\\c28e7c56-2529-42c7-a5b4-c30eff29a7bb.jpg"
+    }
+  ]
 }

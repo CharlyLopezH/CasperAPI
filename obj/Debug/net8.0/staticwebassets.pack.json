@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\wwwroot\\empleados\\c28e7c56-2529-42c7-a5b4-c30eff29a7bb.jpg",
+      "PackagePath": "staticwebassets\\empleados\\c28e7c56-2529-42c7-a5b4-c30eff29a7bb.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CasperAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CasperAPI.props",
+      "PackagePath": "build\\CasperAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CasperAPI.props",
+      "PackagePath": "buildMultiTargeting\\CasperAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CasperAPI.props",
+      "PackagePath": "buildTransitive\\CasperAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

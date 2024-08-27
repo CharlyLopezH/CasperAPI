@@ -1,0 +1,174 @@
+[
+  {
+    "ContainingType": "CasperAPI.Endpoints.AdscripcionesEndpoints",
+    "Method": "Crear",
+    "RelativePath": "adscripciones/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "crearAdscripcionDTO",
+        "Type": "CasperAPI.DTOs.CrearAdscripcionDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CasperAPI.DTOs.AdscripcionDTO",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  },
+  {
+    "ContainingType": "CasperAPI.Endpoints.AdscripcionesEndpoints",
+    "Method": "ObtenerAdscripciones",
+    "RelativePath": "adscripciones/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[CasperAPI.DTOs.AdscripcionDTO, CasperAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CasperAPI.Endpoints.EmpleadosEndpoints",
+    "Method": "Crear",
+    "RelativePath": "empleados/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "crearEmpleadoDTO",
+        "Type": "CasperAPI.DTOs.CrearEmpleadoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CasperAPI.DTOs.EmpleadoDTO",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  },
+  {
+    "ContainingType": "CasperAPI.Endpoints.EmpleadosEndpoints",
+    "Method": "ObtenerEmpleados",
+    "RelativePath": "empleados/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[CasperAPI.DTOs.EmpleadoDTO, CasperAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CasperAPI.Endpoints.EmpleadosEndpoints",
+    "Method": "ObtenerPorId",
+    "RelativePath": "empleados/empleados/{id:int}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CasperAPI.DTOs.EmpleadoDTO",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 404
+      }
+    ]
+  },
+  {
+    "ContainingType": "CasperAPI.Endpoints.EmpleadosEndpoints",
+    "Method": "ActualizarEmpleado",
+    "RelativePath": "empleados/empleados/{id:int}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "crearEmpleadoDTO",
+        "Type": "CasperAPI.DTOs.CrearEmpleadoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 404
+      }
+    ]
+  },
+  {
+    "ContainingType": "CasperAPI.Endpoints.EmpleadosEndpoints",
+    "Method": "BorrarEmpleado",
+    "RelativePath": "empleados/empleados/{id:int}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 404
+      }
+    ]
+  }
+]

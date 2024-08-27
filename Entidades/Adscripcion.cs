@@ -1,0 +1,12 @@
+﻿namespace CasperAPI.Entidades
+{
+    public class Adscripcion
+    {
+        public int Id { get; set; }
+        public string Nombre { get; set; } = null!;
+        public string Siglas { get; set; } = null!;     
+        public int EmpleadoId { get; set; }
+        public List<Empleado> Empleados { get; set; } = new List<Empleado>();
+
+    }
+}

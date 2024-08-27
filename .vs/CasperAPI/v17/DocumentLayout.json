@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|c:\\contra\\sistemas\\desarrollos\\casper\\casperapi\\servicios\\almacenadorarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|solutionrelative:servicios\\almacenadorarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|c:\\contra\\sistemas\\desarrollos\\casper\\casperapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|c:\\contra\\sistemas\\desarrollos\\casper\\casperapi\\casperapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|solutionrelative:casperapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|c:\\contra\\sistemas\\desarrollos\\casper\\casperapi\\endpoints\\empleadosendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|solutionrelative:endpoints\\empleadosendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|c:\\contra\\sistemas\\desarrollos\\casper\\casperapi\\dtos\\crearempleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|solutionrelative:dtos\\crearempleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|c:\\contra\\sistemas\\desarrollos\\casper\\casperapi\\servicios\\ialmacenadorarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|solutionrelative:servicios\\ialmacenadorarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|c:\\contra\\sistemas\\desarrollos\\casper\\casperapi\\entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|solutionrelative:entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|c:\\contra\\sistemas\\desarrollos\\casper\\casperapi\\repositorios\\repositorioadscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|solutionrelative:repositorios\\repositorioadscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|c:\\contra\\sistemas\\desarrollos\\casper\\casperapi\\dtos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|solutionrelative:dtos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|c:\\contra\\sistemas\\desarrollos\\casper\\casperapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|c:\\contra\\sistemas\\desarrollos\\casper\\casperapi\\repositorios\\irepositorioempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|solutionrelative:repositorios\\irepositorioempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|c:\\contra\\sistemas\\desarrollos\\casper\\casperapi\\repositorios\\irepositorioadscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AB113D-1DD2-4CA9-BB7E-2B4CC1E8A5AD}|CasperAPI.csproj|solutionrelative:repositorios\\irepositorioadscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T18:04:21.248Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CasperAPI.csproj",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\CasperAPI.csproj",
+              "RelativeDocumentMoniker": "CasperAPI.csproj",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\CasperAPI.csproj",
+              "RelativeToolTip": "CasperAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-22T20:07:07.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlmacenadorArchivos.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\Servicios\\AlmacenadorArchivos.cs",
+              "RelativeDocumentMoniker": "Servicios\\AlmacenadorArchivos.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\Servicios\\AlmacenadorArchivos.cs",
+              "RelativeToolTip": "Servicios\\AlmacenadorArchivos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T19:55:05.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAlmacenadorArchivos.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\Servicios\\IAlmacenadorArchivos.cs",
+              "RelativeDocumentMoniker": "Servicios\\IAlmacenadorArchivos.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\Servicios\\IAlmacenadorArchivos.cs",
+              "RelativeToolTip": "Servicios\\IAlmacenadorArchivos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T18:39:16.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDBContext.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\ApplicationDBContext.cs",
+              "RelativeToolTip": "ApplicationDBContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvxUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T19:18:11.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrearEmpleadoDTO.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\DTOs\\CrearEmpleadoDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CrearEmpleadoDTO.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\DTOs\\CrearEmpleadoDTO.cs",
+              "RelativeToolTip": "DTOs\\CrearEmpleadoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T18:44:51.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\Entidades\\Empleado.cs",
+              "RelativeDocumentMoniker": "Entidades\\Empleado.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\Entidades\\Empleado.cs",
+              "RelativeToolTip": "Entidades\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T19:08:18.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadosEndpoints.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\Endpoints\\EmpleadosEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\EmpleadosEndpoints.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\Endpoints\\EmpleadosEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\EmpleadosEndpoints.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA4wB8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:53:10.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmpleadoDTO.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\DTOs\\EmpleadoDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\EmpleadoDTO.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\DTOs\\EmpleadoDTO.cs",
+              "RelativeToolTip": "DTOs\\EmpleadoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T19:30:25.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepositorioEmpleados.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\Repositorios\\IRepositorioEmpleados.cs",
+              "RelativeDocumentMoniker": "Repositorios\\IRepositorioEmpleados.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\Repositorios\\IRepositorioEmpleados.cs",
+              "RelativeToolTip": "Repositorios\\IRepositorioEmpleados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T21:10:20.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepositorioAdscripciones.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\Repositorios\\RepositorioAdscripciones.cs",
+              "RelativeDocumentMoniker": "Repositorios\\RepositorioAdscripciones.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\Repositorios\\RepositorioAdscripciones.cs",
+              "RelativeToolTip": "Repositorios\\RepositorioAdscripciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:40:53.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepositorioAdscripciones.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\Repositorios\\IRepositorioAdscripciones.cs",
+              "RelativeDocumentMoniker": "Repositorios\\IRepositorioAdscripciones.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\Repositorios\\IRepositorioAdscripciones.cs",
+              "RelativeToolTip": "Repositorios\\IRepositorioAdscripciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:13:45.198Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

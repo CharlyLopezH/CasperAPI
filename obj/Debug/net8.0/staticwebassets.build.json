@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "3wE0z686uf9j8huvySCVmJzg7wDQbK6PpGeR8FyPwa0=",
+  "Source": "CasperAPI",
+  "BasePath": "_content/CasperAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CasperAPI\\wwwroot",
+      "Source": "CasperAPI",
+      "ContentRoot": "C:\\Contra\\sistemas\\Desarrollos\\casper\\CasperAPI\\wwwroot\\",
+      "BasePath": "_content/CasperAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

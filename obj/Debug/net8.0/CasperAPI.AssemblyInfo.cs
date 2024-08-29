@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CasperAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9703308edf0c0d5723a37aeeddfa0265638810c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+841417cf0ba05156aebe226e7dc449f97b9f6804")]
 [assembly: System.Reflection.AssemblyProductAttribute("CasperAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CasperAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
